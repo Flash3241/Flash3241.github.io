@@ -20,4 +20,4 @@ This is my personal website hosted using GitHub Pages, built with the Massively 
 ## 🌐 Live Site
 
 You can view the site live here:  
-👉 [https://flash3241.github.io](https://flash3241.github.io)
+👉 [https://flash3241.github.io]
